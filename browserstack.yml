@@ -1,0 +1,9 @@
+userName: USERNAME
+accessKey: ACCESS-KEY
+buildName: "KHealthDemoRun"
+projectName: "KHealthDemoProjectRun"
+CUSTOM_TAG_1: "Smoke"
+# Use CUSTOM_TAG_<N> and set more build tags as you need.
+framework: junit5
+testObservability: true
+browserstackAutomation: true
